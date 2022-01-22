@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.parimary-color{
+    background-color: #FFFBF0;
+}
+
+.black-c{
+    color: #3C3C3C;
+}
+.custom-font{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 80px;
+}
+.custom-font span{
+    color: #FABE4C;
+}
+.green-btn{
+    background:linear-gradient(#A4BC46, #85A019);
+}
